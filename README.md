@@ -23,12 +23,12 @@ Make sure you have Node.js and npm installed on your system. You can download No
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/vue-blog-project.git
+git clone https://github.com/Jim-lyz1024/GitHub732_Try.git
 ```
 
 2. Change to the project directory:
 ```
-cd vue-blog-project
+cd GitHub732_Try
 ```
 
 3. Install the required dependencies:
